@@ -11,6 +11,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ControleDeBar.Dominio", "Co
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ControleDeBar.Infraestrutura", "ControleDeBar.Infraestrutura", "{14FDE60A-7F7A-4D97-9249-294916DD7182}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControleDeBar.Dominio", "ControleDeBar.Dominio\ControleDeBar.Dominio.csproj", "{C2198D13-42A7-4183-9217-CE6BDA49AC15}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,12 +23,17 @@ Global
 		{8F2DC69D-C6A9-41CF-9AFC-05D9BEA4B01F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8F2DC69D-C6A9-41CF-9AFC-05D9BEA4B01F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8F2DC69D-C6A9-41CF-9AFC-05D9BEA4B01F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2198D13-42A7-4183-9217-CE6BDA49AC15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2198D13-42A7-4183-9217-CE6BDA49AC15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2198D13-42A7-4183-9217-CE6BDA49AC15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2198D13-42A7-4183-9217-CE6BDA49AC15}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{8F2DC69D-C6A9-41CF-9AFC-05D9BEA4B01F} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{C2198D13-42A7-4183-9217-CE6BDA49AC15} = {7A1D79D8-884A-4F40-AFAE-8D752D88A557}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {BE26B62A-BBC9-4505-8F55-BCF6F710EBA1}
