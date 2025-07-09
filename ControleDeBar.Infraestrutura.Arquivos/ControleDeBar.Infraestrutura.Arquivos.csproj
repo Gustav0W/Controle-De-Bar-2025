@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\ControleDeBar.Dominio\ControleDeBar.Dominio.csproj" />
+  </ItemGroup>
+
 </Project>

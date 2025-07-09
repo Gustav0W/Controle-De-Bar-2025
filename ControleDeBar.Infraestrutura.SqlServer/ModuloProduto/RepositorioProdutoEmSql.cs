@@ -169,5 +169,4 @@ namespace ControleDeBar.Infraestrutura.SqlServer.ModuloProduto
         }
     }
 }
-    }
-}
+
