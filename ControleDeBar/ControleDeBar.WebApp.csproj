@@ -7,7 +7,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Views\Garcom\" />
     <Folder Include="Views\Mesa\" />
     <Folder Include="Views\Produto\" />
   </ItemGroup>
